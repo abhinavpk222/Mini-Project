@@ -1,0 +1,750 @@
+transaction_id,user_id,date,transaction_type,category,amount,payment_mode,location,notes
+T4999,U018,25-04-2023,Expense,Educaton,3888,card,Ahmedabad,Movie tickets
+T12828,U133,08-05-2022,Expense,rent,649,,Hyderabad,asdfgh
+T7403,U091,31-12-2023,Income,Freelance,13239,Csh,BAN,Books
+T12350,U097,,Expense,Fod,6299,Bank Transfer,AHMEDABAD,Electricity bill
+T7495,U088,10/28/2022,Expense,entertainment,2287,CARD,Hyderabad,N/A
+T12465,U042,04-11-2024,Expense,Foods,4168,,N/A,test
+T4518,U026,08/16/2022,Expense,education,Rs.828,Crd,Lucknow,Uber ride
+T9824,U061,12-12-2024,Income,Salary,62061,CRD,AHM,...
+T0741,U053,13-03-2024,Expense,Utilties,₹5070,upi,KOL,Grocery shopping
+T12403,U004,11-10-2023,Income,Others,59543,UPI,LUC,Gym membership
+T5282,U016,15-04-2022,Expense,Utilties,999999999,Crd,DEL,
+T6861,U112,18-04-2021,Expense,Utility,$4262,upi,AHM,Uber ride
+T9446,U006,06/29/2022,Expense,Utlities,5767,Bank Transfer,BANGALORE,
+T3016,U099,02/24/2022,Expense,Rentt,23760,CRD,BANGALORE,Electricity bill
+T11564,U148,08/28/2023,Expense,Food,898,UPI,LUC,Restaurant dinner
+T11382,U111,02-06-2023,Income,Freelance,25143,card,CHENNAI,
+T3133,U024,17-07-2024,Expense,rent,9567,bank transfer,PUNE,ATM withdrawal
+T1982,U089,27-02-2021,Income,Others,49683,,lucknow,xyz123
+T7154,U039,21-09-2024,Expense,FOOD,222,UPI,Bangalore,misc
+T2699,U092,25-02-2023,Expense,Travel,₹2553,UPi,LUC,Doctor consultation
+T5774,U005,14-02-2021,Expense,food,7406,card,BANGALORE,xyz123
+T12850,U076,06-09-2021,Expense,rent,3010,UPI,KOL,N/A
+T5770,U107,,Expense,health,4846,Csh,CHE,Books
+T6195,U038,20-11-2024,Income,Salary,855881,BankTransfer,Jaipur,
+T12096,U075,,Expense,Food,4452,card,BAN,
+T5731,U027,04-02-2023,Expense,Foods,2206,Bank_Transfer,N/A,xyz123
+T0909,U013,20-04-2024,Expense,Entertainment,7038,card,JAI,Gym membership
+T7565,U075,24-01-2022,Expense,Travl,4286,BankTransfer,hyderabad,N/A
+T1653,U099,16-12-2024,Expense,education,8119,CARD,Hyderabad,Books
+T6239,U150,28-12-2021,Expense,education,₹4189,Card,Bangalore,Uber ride
+T2849,U150,10-10-2022,Income,Investment,19947,Bank Transfr,LUCKNOW,Coffee
+T3127,U023,22-05-2021,Expense,FOOD,5107 INR,upi,N/A,Shopping
+T4949,U101,03-01-2023,Expense,Foodd,3865,BankTransfer,JAI,
+T3563,U007,05-05-2021,Expense,Travel,2407,CRD,CHE,Internet bill
+T10891,U055,09-08-2024,Expense,Food,3085,CARD,JAIPUR,Electricity bill
+T10872,U080,22-02-2023,Expense,HEALTH,5252,,Delhi,Online course
+T6786,U017,12/15/2022,Expense,rent,1380 INR,Bank Transfr,hyderabad,Train ticket
+T3396,U136,22-09-2021,Expense,RENT,$7619,csh,pune,Movie tickets
+T1215,U150,29-12-2023,Expense,Others,4823,Cash,Ahmedabad,...
+T5293,U044,23-02-2021,Expense,Helth,8497,,KOLKATA,Gym membership
+T12220,U122,11/14/2023,Expense,Foods,999999,UPi,LUC,
+T2003,U149,04/15/2021,Expense,Travel,8241,upi,,Movie tickets
+T9452,U062,24-09-2023,Expense,rent,8579,bank transfer,AHMEDABAD,...
+T4924,U082,05/25/2022,Expense,Foods,235,card,CHENNAI,ATM withdrawal
+T11911,U069,22-06-2023,Expense,Foodd,1263,upi,lucknow,
+T11270,U022,09-08-2023,Expense,HEALTH,2134,Bank Transfr,JAI,Books
+T13032,U150,06/19/2021,Expense,Education,2228,Cash,DELHI,Movie tickets
+T6095,U110,11-01-2024,Expense,RENT,4641 INR,BankTransfer,delhi,ATM withdrawal
+T0361,U055,16-08-2023,Expense,utilities,1081,CRD,PUNE,
+T7314,U103,26-02-2022,Expense,entertainment,371,Csh,MUM,Uber ride
+T11430,U108,07-10-2021,Expense,Food,225,Crd,Pune,!!!
+T12663,U052,04/15/2023,Expense,Rent,23776,Upi,Bangalore,Doctor consultation
+T6106,U008,23-04-2023,Expense,HEALTH,6707,card,DELHI,
+T9628,U096,22-03-2024,Expense,Fod,$8380,Bank Transfer,hyderabad,
+T1623,U017,04-10-2021,Expense,Utlities,601,bank transfer,JAIPUR,Medicine
+T13765,U034,09-05-2024,Expense,Others,3219,csh,hyderabad,Internet bill
+T10347,U017,,Expense,Rnt,8182,csh,,test
+T5930,U011,04/21/2024,Expense,savings,8111,,DEL,Grocery shopping
+T1627,U069,04/18/2022,Expense,Utilties,Rs.5554,Bank Transfer,HYDERABAD,EMI payment
+T4242,U053,15-08-2024,Income,Salary,₹41573,Bank Transfr,mumbai,Coffee
+T12437,U004,12-01-2024,Expense,EDU,3110,BankTransfer,chennai,Doctor consultation
+T8670,U030,25-07-2024,Expense,Foodd,4277,Crd,PUNE,Train ticket
+T11341,U127,17-01-2024,Expense,Foods,3047,CRD,Mumbai,Grocery shopping
+T9556,U008,27-06-2024,Income,Freelance,10183,,DELHI,
+T2449,U028,04/16/2022,Expense,Travel,9888,bank transfer,DEL,Shopping
+T4357,U088,07-03-2024,Expense,Rentt,7217,cash,DELHI,Internet bill
+T0815,U141,05-10-2021,Expense,Education,9725,Bank Transfr,CHE,Restaurant dinner
+T7919,U086,27-05-2023,Expense,entertainment,9648,Bank Transfr,kolkata,!!!
+T5695,U061,22-10-2023,Expense,Traval,1643,CARD,Mumbai,Petrol
+T2471,U066,12/23/2021,Expense,Education,7397 INR,Csh,DEL,test
+T3475,U046,10-12-2022,Income,Freelance,70075,Upi,Kolkata,Gym membership
+T5875,U081,31-10-2021,Expense,Foods,Rs.864,Bank Transfr,Mumbai,Shopping
+T10128,U104,06-09-2024,Expense,,6228,Cash,hyderabad,
+T3491,U061,04-10-2024,Expense,Educaton,1206,cash,Ahmedabad,Shopping
+T2225,U028,06-07-2023,Expense,Education,8204,CRD,,!!!
+T6946,U068,06/23/2024,Expense,EDU,Rs.5756,UPI,HYDERABAD,xyz123
+T2022,U056,12/20/2021,Expense,food,₹5576,BankTransfer,DEL,Medicine
+T13529,U123,05-11-2021,Expense,health,9771,Bank_Transfer,Pune,Petrol
+T12210,U118,25-01-2022,Expense,Rentt,20509,Bank Transfr,bangalore,Train ticket
+T6904,U063,13-09-2024,Income,Bonus,62193,Upi,CHE,Electricity bill
+T0713,U055,22-08-2023,Expense,Utility,3367,Bank_Transfer,Ahmedabad,Monthly rent payment
+T7323,U009,13-05-2024,Expense,health,2721,Upi,BANGALORE,EMI payment
+T10231,U089,02/13/2023,Expense,rent,2962,Upi,ahmedabad,Books
+T11570,U052,23-09-2022,Expense,travel,8283,card,AHMEDABAD,...
+T13926,U134,16-09-2024,Expense,Utilities,3520,csh,MUMBAI,test
+T0884,U115,04-07-2024,Expense,Travel,5524,Bank Transfer,Hyderabad,Fixed deposit
+T5033,U119,18-12-2021,Expense,Traval,₹999999,upi,pune,Lunch
+T8492,U101,11/14/2024,Expense,Entertainment,1800,Bank Transfer,ahmedabad,Internet bill
+T4699,U090,08-07-2023,Income,Investment,₹32146,CASH,Delhi,ATM withdrawal
+T1841,U097,03-10-2021,Income,Others,57173,Cash,,
+T3041,U018,11-07-2021,Expense,Rnt,2966,Cash,bangalore,EMI payment
+T7693,U116,31-08-2024,Expense,Entertain,1004,Bank Transfer,KOLKATA,
+T0071,U078,26-04-2024,Expense,Rnt,₹6141,csh,Pune,
+T12197,U026,04/18/2022,Expense,Travel,9154,Crd,DELHI,...
+T8563,U080,12/29/2024,Expense,travel,Rs.9705,CASH,,misc
+T6626,U049,14-08-2022,Expense,Food,2637,Cash,jaipur,Fixed deposit
+T7302,U102,09/19/2024,Expense,FOOD,1073,CRD,lucknow,
+T6588,U125,,Expense,Foods,425,BankTransfer,JAI,Petrol
+T3552,U095,21-01-2024,Income,Bonus,34145,Bank Transfer,HYDERABAD,!!!
+T1620,U040,08/30/2024,Expense,Utilties,527,Cash,MUM,
+T7912,U115,06/15/2022,Expense,Saving,5195,UPi,LUC,Grocery shopping
+T3571,U064,05-10-2024,Expense,Entrtnmnt,3143,Upi,CHENNAI,Books
+T10957,U081,08-06-2023,Expense,travel,2135,CASH,Lucknow,Medicine
+T0294,U080,25-12-2024,Expense,Foodd,2163,Upi,mumbai,Doctor consultation
+T9414,U149,06-09-2024,Expense,Rentt,42078,UPI,Kolkata,
+T10537,U079,08-01-2023,Expense,Foods,2778,UPi,Ahmedabad,...
+T1125,U105,22-11-2024,Expense,HEALTH,3929,CRD,,Shopping
+T8978,U103,05-10-2024,Income,Freelance,23852,Crd,LUC,Coffee
+T5936,U022,13-06-2021,Expense,,₹6856,,Chennai,Shopping
+T3751,U103,31-05-2024,Income,Bonus,49639,,hyderabad,Online course
+T0626,U122,19-08-2024,Expense,education,3150,BankTransfer,CHE,Coffee
+T9500,U090,07-06-2022,Expense,Helth,9408,cash,hyderabad,Electricity bill
+T1537,U056,06/25/2022,Expense,Entertain,4114,Upi,Delhi,Fixed deposit
+T9185,U117,12-12-2022,Income,Bonus,Rs.14249,Bank Transfr,LUCKNOW,
+T7093,U096,29-03-2023,Expense,TRAVEL,9681,Upi,delhi,Online course
+T1990,U121,29-03-2022,Expense,travel,3011,CRD,Kolkata,Grocery shopping
+T4706,U150,06/13/2024,Expense,health,3150,UPi,Jaipur,N/A
+T8416,U133,05-05-2023,Income,Bonus,32789,csh,bangalore,Lunch
+T11932,U100,10-02-2023,Expense,Utility,6704,UPI,MUM,Doctor consultation
+T4683,U062,27-08-2022,Expense,Travel,Rs.4427,Card,Chennai,Gym membership
+T10528,U071,27-11-2021,Expense,entertainment,3121,Bank_Transfer,PUNE,Grocery shopping
+T10806,U149,05/19/2024,Expense,FOOD,3802,Upi,Jaipur,Petrol
+T10505,U099,03-06-2021,Expense,Education,544,upi,Ahmedabad,Lunch
+T13682,U145,03-09-2023,Expense,Travel,9053,,LUCKNOW,...
+T12807,U029,05-06-2021,Income,Freelance,32381,Bank Transfer,chennai,...
+T6557,U007,28-01-2023,Expense,Travel,Rs.8305,UPi,pune,test
+T0409,U137,08-02-2021,Expense,Utility,8841,,mumbai,
+T10784,U022,04/30/2021,Income,Investment,46219,CRD,Lucknow,N/A
+T2457,U054,03-10-2021,Expense,Traval,9800 INR,Cash,Mumbai,misc
+T12395,U062,04-10-2021,Expense,Utilties,4451,Bank Transfer,MUMBAI,...
+T1882,U101,09/25/2022,Expense,Education,9358,CRD,mumbai,
+T13924,U035,08/24/2021,Expense,RENT,3569,cash,jaipur,Online course
+T13453,U110,05-11-2024,Expense,Rnt,2979,cash,HYD,Medicine
+T9836,U058,11-09-2024,Expense,Travel,$1863,Bank_Transfer,hyderabad,Lunch
+T13845,U066,06/24/2022,Expense,Rent,34984,UPi,chennai,Petrol
+T11381,U107,05-12-2024,Income,Investment,44031,Bank Transfr,HYD,Online course
+T5758,U049,08-04-2023,Expense,Rentt,₹21771,upi,chennai,
+T12059,U077,12-11-2021,Income,Salary,$24920,upi,chennai,Online course
+T8889,U131,01-07-2021,Expense,SAVINGS,8861,Bank Transfr,PUNE,...
+T10327,U136,25-05-2022,Expense,health,₹4201,Bank_Transfer,KOL,Online course
+T4967,U113,17-02-2022,Expense,Rentt,47473,BankTransfer,hyderabad,Online course
+T11849,U040,12-06-2021,Income,Investment,75822,csh,Mumbai,Medicine
+T5167,U014,10/26/2021,Expense,food,677,Bank_Transfer,MUMBAI,Medicine
+T3952,U120,08/26/2024,Expense,Rent,43252,csh,delhi,test
+T5844,U086,24-04-2021,Expense,Food,₹2615,CRD,Lucknow,ATM withdrawal
+T13040,U009,06-04-2024,Expense,Foods,₹2855,UPI,BAN,misc
+T3167,U145,28-11-2021,Income,Bonus,57358,cash,Delhi,!!!
+T8867,U105,11/14/2022,Expense,,6348,CRD,mumbai,Medicine
+T5926,U016,13-07-2024,Expense,RENT,4583,Bank_Transfer,,Lunch
+T13662,U129,10/18/2021,Expense,Misc,4952,cash,HYDERABAD,ATM withdrawal
+T13593,U018,03-11-2024,Expense,others,3941,bank transfer,MUMBAI,Lunch
+T12216,U116,21-04-2023,Income,Others,47262,BankTransfer,KOL,
+T8335,U001,19-06-2021,Expense,Entertain,1998,upi,Lucknow,Internet bill
+T4933,U018,03/17/2021,Expense,food,₹8124,,PUNE,Coffee
+T7036,U105,01-12-2021,Expense,Travel,1326,Card,,asdfgh
+T9072,U066,09/26/2024,Expense,savings,₹4328,Upi,MUMBAI,Medicine
+T8270,U081,04-04-2023,Expense,Foodd,276,Bank_Transfer,Pune,Restaurant dinner
+T12265,U094,02-04-2022,Expense,Utlities,₹4215,Crd,hyderabad,ATM withdrawal
+T4637,U005,11-04-2023,Expense,Utlities,₹6316,UPi,PUN,ATM withdrawal
+T9022,U089,10-03-2024,Expense,Rentt,21376,UPI,CHE,test
+T7016,U145,09-01-2021,Expense,Utility,7391,cash,hyderabad,Uber ride
+T12109,U144,05/31/2023,Expense,Travel,2990,upi,MUM,Train ticket
+T9952,U045,24-12-2022,Expense,Utility,2230,,delhi,ATM withdrawal
+T13401,U064,17-09-2021,Expense,Fod,6197,upi,N/A,xyz123
+T11100,U142,06-05-2021,Expense,food,6502,card,jaipur,Shopping
+T4072,U067,07-11-2021,Expense,,6902,Crd,DELHI,Petrol
+T8303,U091,05-05-2024,Expense,Food,,Bank Transfr,KOL,xyz123
+T9115,U060,21-04-2022,Expense,Entertainment,9939,Bank Transfer,pune,
+T2668,U126,12/30/2022,Expense,RENT,1518,Bank Transfer,LUC,Electricity bill
+T1256,U035,06-03-2021,Expense,Traval,2985,csh,Delhi,Restaurant dinner
+T7219,U002,28-06-2024,Expense,Educaton,3150,Bank Transfr,ahmedabad,
+T7845,U014,27-12-2024,Expense,utilities,6671,UPi,ahmedabad,Doctor consultation
+T4986,U124,04-07-2023,Expense,Traval,1409,upi,chennai,xyz123
+T1883,U047,07/20/2024,Expense,EDU,2497,Bank Transfr,KOL,!!!
+T7034,U108,03/24/2021,Expense,Utility,6324,Crd,Chennai,Gym membership
+T11835,U125,04-12-2022,Expense,education,$7315,Bank Transfr,jaipur,N/A
+T0231,U031,02-08-2023,Expense,Utlities,7080,Bank_Transfer,kolkata,test
+T2017,U090,14-01-2022,Expense,Utility,7821,CASH,PUN,test
+T9479,U114,14-08-2021,Expense,rent,₹988,upi,,Restaurant dinner
+T1312,U070,12/15/2022,Income,Freelance,23504,bank transfer,HYDERABAD,Electricity bill
+T0010,U017,04/19/2024,Expense,,1064,csh,AHM,Books
+T11433,U083,10-12-2021,Expense,food,2683,Csh,DELHI,xyz123
+T4446,U017,11/30/2023,Expense,food,5022,Cash,Hyderabad,Internet bill
+T2782,U093,01-04-2021,Expense,FOOD,₹7849,,Pune,Petrol
+T11291,U040,10-06-2024,Income,Bonus,33565,Csh,HYDERABAD,Gym membership
+T6224,U092,11-04-2024,Income,Salary,66678,Bank Transfr,Chennai,EMI payment
+T4124,U119,03-05-2024,Expense,education,6304,UPI,PUNE,Fixed deposit
+T10115,U091,23-02-2022,Income,Freelance,50009,Bank Transfer,PUNE,
+T3531,U134,08-07-2021,Expense,food,5811,Bank Transfer,Pune,
+T1066,U057,05-02-2023,Expense,Entertainment,₹7713,upi,pune,Monthly rent payment
+T9037,U142,12/19/2022,Income,Salary,70693,csh,AHMEDABAD,
+T12498,U012,20-03-2024,Expense,Helth,2603,cash,Kolkata,Monthly rent payment
+T6556,U037,12/22/2023,Expense,Foods,314,CASH,MUM,Train ticket
+T4233,U089,30-10-2024,Expense,Education,9806,Bank_Transfer,CHENNAI,Petrol
+T1925,U060,04-02-2023,Expense,Foodd,3762,BankTransfer,HYD,
+T9678,U092,03/15/2021,Expense,travel,9891,UPi,,Grocery shopping
+T3468,U143,08-09-2024,Expense,Health,6869,Crd,Jaipur,asdfgh
+T2217,U113,02-04-2023,Expense,Rnt,$6756,Bank_Transfer,PUN,
+T7901,U028,07-09-2021,Expense,entertainment,356,BankTransfer,jaipur,
+T9324,U093,03-10-2021,Income,Others,20156,cash,Pune,
+T6515,U121,16-03-2024,Expense,health,$3790,Crd,AHM,...
+T3401,U071,10-07-2021,Expense,,6766,CARD,BANGALORE,Gym membership
+T2246,U061,04-01-2021,Expense,Foods,3765,bank transfer,Chennai,Fixed deposit
+T10375,U013,06-08-2023,Income,Freelance,,Bank Transfer,DELHI,Electricity bill
+T7960,U028,25-07-2021,Expense,Entertainment,4638,card,N/A,!!!
+T13793,U141,09/23/2021,Income,Freelance,11650,csh,HYD,!!!
+T7316,U144,22-02-2024,Expense,Utilties,5790,,PUN,misc
+T4875,U076,06/16/2024,Expense,Rentt,12435,UPi,Lucknow,
+T1216,U042,31-01-2022,Income,Investment,31183,Bank Transfer,Jaipur,Shopping
+T11898,U035,13-04-2023,Expense,Food,775,UPi,,Monthly rent payment
+T3071,U139,11-03-2021,Expense,entertainment,$8230,Bank_Transfer,lucknow,EMI payment
+T12468,U043,12/14/2024,Expense,Rnt,₹5582,UPI,AHMEDABAD,Monthly rent payment
+T5511,U114,04/20/2024,Expense,Fod,5918,bank transfer,Pune,
+T5607,U093,02-05-2024,Income,Investment,73830,UPi,PUNE,xyz123
+T9770,U040,02/21/2021,Expense,Rent,23340,CRD,lucknow,Doctor consultation
+T11278,U009,19-07-2022,Expense,Rentt,40813,Upi,delhi,Books
+T10427,U077,31-12-2024,Expense,Utlities,₹3414,Upi,pune,test
+T1377,U044,31-03-2022,Expense,Food,2033,UPI,MUMBAI,EMI payment
+T2469,U038,11/30/2023,Income,Bonus,44932,Bank Transfr,KOL,Lunch
+T6621,U104,14-08-2022,Expense,FOOD,999999,CASH,Jaipur,xyz123
+T7679,U079,03-05-2024,Expense,Education,₹2274,cash,HYDERABAD,Grocery shopping
+T8635,U039,28-02-2023,Expense,travel,330,Bank Transfer,chennai,
+T4874,U123,30-12-2024,Expense,travel,8592,Csh,PUN,Lunch
+T3143,U025,01-05-2023,Expense,rent,Rs.6779,csh,Delhi,Monthly rent payment
+T13475,U033,01-12-2022,Income,Investment,29235,bank transfer,,xyz123
+T8560,U023,04-02-2023,Expense,Health,2143,Card,delhi,asdfgh
+T8417,U089,17-05-2022,Expense,Foods,4945,CRD,ahmedabad,test
+T8379,U106,16-10-2021,Expense,Entertainment,8152,Upi,DELHI,Uber ride
+T13913,U006,12-07-2022,Expense,Other,7300,Bank_Transfer,pune,!!!
+T11359,U135,04-06-2024,Expense,Foods,4603,bank transfer,AHMEDABAD,EMI payment
+T8916,U035,13-10-2022,Expense,Entrtnmnt,$4719,card,MUM,Coffee
+T5752,U112,12-05-2022,Expense,Rent,27792,bank transfer,PUN,Doctor consultation
+T11316,U053,06-10-2022,Expense,TRAVEL,6691,card,HYD,Doctor consultation
+T4377,U065,05-04-2022,Expense,RENT,5935,Bank Transfr,HYD,Coffee
+T10191,U150,02/26/2024,Expense,TRAVEL,₹9750,UPI,mumbai,ATM withdrawal
+T10267,U128,19-10-2021,Expense,RENT,6484,Upi,JAI,Fixed deposit
+T10019,U029,18-02-2024,Expense,entertainment,2398,bank transfer,LUC,Medicine
+T1053,U081,25-08-2021,Expense,Food,₹498,Csh,delhi,Coffee
+T2960,U124,05-09-2022,Expense,Rent,Rs.35588,CASH,JAIPUR,Grocery shopping
+T5402,U053,02-11-2021,Income,Others,$13131,CARD,Lucknow,Fixed deposit
+T1989,U027,06-08-2024,Expense,Health,$6321,Cash,AHM,ATM withdrawal
+T7284,U114,08/30/2023,Expense,Rent,28207,BankTransfer,,Fixed deposit
+T11284,U125,24-06-2023,Expense,TRAVEL,,Crd,CHE,Train ticket
+T1195,U102,08-06-2023,Expense,Rentt,10749,Cash,lucknow,Uber ride
+T6008,U053,21-05-2023,Expense,Foodd,2232,,PUN,Books
+T11465,U149,03/30/2022,Expense,SAVINGS,8161,CARD,Bangalore,Restaurant dinner
+T8940,U088,05-11-2024,Expense,,3825,CASH,Bangalore,
+T2577,U075,13-07-2022,Expense,Utilities,4923,bank transfer,MUMBAI,
+T6064,U104,04-11-2023,Expense,Food,Rs.1078,Bank_Transfer,DELHI,
+T1619,U053,16-02-2021,Income,Investment,₹74630,BankTransfer,AHM,
+T1405,U109,02-12-2022,Income,Freelance,14180,Cash,mumbai,Online course
+T0352,U149,11-08-2024,Expense,utilities,8479,UPi,Bangalore,Monthly rent payment
+T5467,U104,05-11-2023,Expense,food,5292,Bank_Transfer,hyderabad,Gym membership
+T10397,U013,10/20/2022,Expense,TRAVEL,3942,Bank_Transfer,Lucknow,!!!
+T3306,U065,22-07-2022,Expense,entertainment,2923 INR,Bank Transfer,Delhi,Doctor consultation
+T12923,U075,09-01-2023,Expense,entertainment,8943,Crd,Pune,Monthly rent payment
+T2497,U149,22-11-2022,Expense,utilities,3159,CARD,DELHI,ATM withdrawal
+T12309,U024,18-12-2023,Expense,Rent,12484,CRD,BAN,
+T6608,U081,04-06-2023,Expense,rent,4331,Csh,HYDERABAD,Train ticket
+T4870,U014,04-10-2024,Expense,Rnt,9348,bank transfer,JAIPUR,N/A
+T12187,U060,06/26/2024,Expense,FOOD,8174,bank transfer,Pune,
+T13685,U047,03-08-2021,Income,Investment,74243,Cash,JAIPUR,Shopping
+T6605,U124,17-10-2023,Expense,FOOD,8640,cash,Jaipur,Coffee
+T3940,U085,25-06-2021,Expense,food,9784,Crd,JAIPUR,Uber ride
+T12289,U001,26-12-2021,Expense,Rentt,45093,CRD,PUN,Electricity bill
+T12849,U049,04/21/2021,Expense,FOOD,2130,UPI,lucknow,Restaurant dinner
+T6257,U036,21-02-2023,Expense,Food,4816,UPi,PUN,Lunch
+T3936,U039,10-05-2023,Expense,food,2247,card,chennai,Uber ride
+T10279,U087,13-03-2021,Income,Freelance,46587,CRD,LUCKNOW,asdfgh
+T11375,U060,,Expense,Entertainment,₹6699,Csh,Lucknow,Internet bill
+T2772,U093,,Expense,Travel,3345,BankTransfer,,xyz123
+T0177,U038,13-06-2022,Expense,Others,6610,csh,PUNE,Restaurant dinner
+T3986,U077,20-12-2024,Expense,travel,₹4692,upi,jaipur,Fixed deposit
+T2217,U113,02-04-2023,Expense,Rnt,$6756,Bank_Transfer,PUN,
+T3810,U004,02-03-2021,Expense,Educaton,5305,bank transfer,CHE,Restaurant dinner
+T7155,U060,08/14/2022,Income,Bonus,67675,Bank Transfer,BANGALORE,
+T8163,U016,29-03-2021,Expense,Entertain,7845,csh,DEL,asdfgh
+T7044,U049,18-05-2022,Expense,Entertainment,7183,cash,,Shopping
+T3840,U144,23-08-2022,Expense,Utilties,6908,Card,BAN,
+T3774,U020,08-09-2023,Expense,Rentt,47146,card,Delhi,
+T3961,U111,15-07-2024,Expense,HEALTH,5749,csh,pune,Internet bill
+T13582,U133,26-10-2021,Expense,Entrtnmnt,5542,CARD,Kolkata,Petrol
+T11104,U121,14-09-2022,Expense,travel,3429,card,MUM,Lunch
+T8714,U065,23-06-2021,Expense,Entertain,237,Bank Transfer,JAIPUR,Petrol
+T2709,U138,18-08-2022,Expense,SAVINGS,8231,UPI,CHENNAI,Lunch
+T2156,U018,11-05-2022,Expense,Utlities,Rs.9859,UPI,kolkata,EMI payment
+T8551,U065,20-03-2024,Expense,utilities,2288,UPI,Kolkata,
+T10622,U030,26-01-2022,Expense,Travel,5756,Bank_Transfer,HYD,ATM withdrawal
+T9673,U145,10/31/2021,Expense,Rentt,Rs.28183,Upi,Delhi,...
+T8967,U125,16-03-2023,Income,Others,41720,Bank_Transfer,pune,Doctor consultation
+T11141,U098,10-07-2024,Expense,rent,7335,Bank Transfer,CHENNAI,!!!
+T4430,U147,04-10-2024,Expense,RENT,287,CARD,HYDERABAD,Restaurant dinner
+T11810,U060,12/30/2021,Income,Others,57828,UPI,ahmedabad,Shopping
+T10574,U061,28-10-2021,Expense,Education,₹9601,,kolkata,Uber ride
+T9406,U131,12-08-2021,Expense,Entertainment,2186,CRD,Bangalore,Online course
+T2288,U143,14-06-2021,Expense,Entrtnmnt,8093,CARD,lucknow,asdfgh
+T1733,U080,05-03-2023,Expense,Travel,2272,Bank Transfer,HYD,Gym membership
+T13220,U140,02-05-2024,Expense,Foodd,4549,Csh,CHENNAI,ATM withdrawal
+T9379,U106,26-11-2021,Expense,Rent,21603,csh,JAIPUR,Petrol
+T0617,U046,22-01-2021,Expense,Fod,1641,csh,kolkata,
+T13759,U109,27-12-2021,Expense,Educaton,7941,Upi,CHENNAI,test
+T0147,U114,27-06-2021,Expense,Travl,$7135,cash,LUCKNOW,ATM withdrawal
+T4332,U089,21-11-2023,Expense,FOOD,4265,UPi,hyderabad,
+T12052,U046,09-09-2023,Expense,savings,8634,Bank Transfer,LUC,Gym membership
+T4585,U003,21-05-2024,Expense,Entertain,1006,Upi,hyderabad,Medicine
+T0859,U132,27-10-2024,Expense,TRAVEL,475,BankTransfer,DEL,
+T6964,U028,16-04-2022,Expense,Saving,,CASH,DEL,Train ticket
+T5011,U129,16-07-2022,Expense,TRAVEL,₹6799,CARD,Bangalore,Restaurant dinner
+T13370,U046,23-09-2021,Expense,Health,,CARD,Delhi,Movie tickets
+T1330,U108,21-03-2022,Expense,rent,₹1564,,,Doctor consultation
+T4361,U008,19-03-2023,Expense,education,1002 INR,Bank_Transfer,AHMEDABAD,N/A
+T7760,U089,11-05-2024,Expense,Rent,46614,Bank Transfr,LUC,...
+T7501,U047,01-12-2021,Expense,Food,4005,cash,kolkata,Monthly rent payment
+T13770,U147,,Expense,Foods,651,Bank_Transfer,CHE,Coffee
+T10853,U083,28-04-2023,Expense,Travel,$4601,Upi,PUN,Medicine
+T5130,U075,10-09-2021,Expense,Rent,₹46896,UPI,delhi,Lunch
+T12558,U124,01/13/2021,Expense,Rentt,,Csh,Chennai,...
+T4248,U058,21-03-2022,Income,Salary,78532,Bank_Transfer,kolkata,misc
+T5305,U046,01/16/2023,Income,Bonus,178518,Bank Transfr,pune,Shopping
+T6784,U022,12-01-2021,Expense,Fod,8687,,BANGALORE,Coffee
+T1468,U139,07-12-2022,Income,Freelance,57170,UPi,DEL,Movie tickets
+T5253,U075,07-08-2021,Expense,FOOD,7235,Crd,BAN,test
+T6241,U037,04-07-2022,Expense,TRAVEL,9675,csh,MUM,Restaurant dinner
+T4458,U075,04/21/2022,Expense,Food,4895,UPi,AHM,Fixed deposit
+T4529,U064,31-01-2024,Income,Bonus,21355,Bank_Transfer,JAI,EMI payment
+T5154,U072,11-03-2024,Income,Others,₹13183,upi,CHENNAI,Books
+T10901,U086,12-07-2022,Expense,Traval,₹9364,UPI,DELHI,EMI payment
+T12719,U019,18-05-2021,Expense,FOOD,$5042,cash,JAI,EMI payment
+T6988,U044,10-07-2023,Expense,Rnt,2824,UPI,AHM,Doctor consultation
+T2128,U126,18-10-2023,Expense,HEALTH,₹9979,upi,HYD,Internet bill
+T1182,U023,20-09-2024,Expense,Health,8548,,BAN,ATM withdrawal
+T4182,U117,03-03-2023,Expense,Food,700,Bank Transfr,PUN,Gym membership
+T4082,U138,07/23/2021,Expense,food,Rs.6556,Upi,mumbai,
+T8735,U023,12-07-2023,Expense,FOOD,8641 INR,Card,HYDERABAD,N/A
+T8123,U020,15-05-2023,Expense,RENT,5988,Bank Transfer,MUM,Movie tickets
+T7895,U117,23-08-2024,Expense,Utlities,6348,card,Chennai,!!!
+T8735,U113,15-05-2021,Expense,Rnt,5549,UPi,,Fixed deposit
+T10792,U053,15-07-2022,Expense,Rent,44898,cash,Chennai,Coffee
+T8838,U010,16-07-2023,Expense,RENT,3221,Upi,DEL,ATM withdrawal
+T1044,U075,06-05-2021,Expense,food,₹1810,Card,KOL,Internet bill
+T8602,U097,12-07-2024,Expense,RENT,$9944,UPI,DEL,misc
+T7931,U085,12-08-2021,Expense,travel,1037,CASH,BANGALORE,Electricity bill
+T13820,U148,10/16/2023,Expense,utilities,6278,BankTransfer,HYD,
+T0241,U148,13-12-2023,Expense,TRAVEL,$2963,UPI,,xyz123
+T9531,U149,06/15/2021,Expense,Utilities,999,csh,CHENNAI,Fixed deposit
+T1003,U064,08-11-2022,Income,Investment,43737,UPI,LUCKNOW,Internet bill
+T5549,U114,30-01-2021,Expense,Rent,45894,Bank Transfr,MUM,Petrol
+T13844,U006,29-05-2024,Expense,Travl,₹7040,UPi,JAIPUR,Uber ride
+T9591,U034,08/22/2022,Expense,entertainment,5011,upi,,Uber ride
+T5042,U008,13-07-2023,Expense,Travl,2082,Csh,DEL,Grocery shopping
+T6831,U145,23-05-2022,Income,Freelance,43378,upi,,
+T0131,U108,07-01-2023,Expense,Entertainment,4167,csh,pune,
+T3349,U130,02-08-2022,Expense,Utilities,6260,CARD,Mumbai,Electricity bill
+T5111,U051,09-02-2023,Expense,rent,747,Crd,chennai,!!!
+T2986,U127,31-03-2021,Expense,travel,3645,,lucknow,Internet bill
+T3113,U079,17-03-2023,Expense,Helth,5958,bank transfer,mumbai,misc
+T5430,U061,12-08-2022,Income,Investment,49098,CASH,chennai,xyz123
+T13440,U062,19-06-2022,Expense,Traval,3833,CARD,HYDERABAD,EMI payment
+T1572,U097,02-06-2024,Expense,Education,2715,card,ahmedabad,asdfgh
+T13022,U105,22-04-2023,Expense,utilities,₹9245,Bank Transfer,ahmedabad,Train ticket
+T3628,U116,07-12-2024,Expense,Rentt,12316,cash,JAI,Medicine
+T7622,U124,20-03-2024,Expense,entertainment,2561,Bank Transfr,,misc
+T5287,U129,11-04-2024,Expense,Entertainment,6832,CASH,JAI,Fixed deposit
+T6525,U061,23-04-2021,Expense,Rnt,Rs.9714,CASH,DEL,Gym membership
+T11583,U036,20-10-2024,Income,Bonus,73654,Crd,Mumbai,asdfgh
+T5046,U123,12/20/2023,Expense,rent,5622,Bank Transfer,jaipur,ATM withdrawal
+T11781,U065,29-08-2024,Expense,Helth,,Card,DELHI,Fixed deposit
+T9393,U030,31-07-2022,Expense,Traval,7748,card,BANGALORE,xyz123
+T1258,U106,14-11-2022,Expense,RENT,4981,,Jaipur,...
+T0928,U102,05/13/2022,Expense,Foodd,301,Card,HYDERABAD,Grocery shopping
+T6037,U009,10-05-2024,Expense,FOOD,3830,card,,Gym membership
+T12742,U139,18-10-2021,Expense,Travel,2985,UPI,KOLKATA,Gym membership
+T7198,U069,01/27/2021,Income,Others,79870,Upi,PUN,Movie tickets
+T2353,U082,02-12-2023,Expense,Foodd,4426,bank transfer,,Fixed deposit
+T7335,U024,07/26/2024,Expense,Entertainment,3640,UPI,DELHI,EMI payment
+T11646,U122,,Expense,travel,1583,Crd,AHM,Train ticket
+T7798,U040,09-10-2023,Expense,Utility,₹9476,Upi,BAN,Movie tickets
+T3213,U148,05/31/2023,Expense,travel,₹7070,upi,HYD,
+T10710,U006,08-01-2023,Expense,Travel,7174,upi,chennai,Uber ride
+T0922,U086,12-12-2022,Expense,Entertain,Rs.3159,BankTransfer,AHMEDABAD,
+T13698,U094,,Expense,Utilities,7296,Bank Transfer,DEL,Petrol
+T5592,U028,24-03-2023,Expense,health,1606,upi,Lucknow,Fixed deposit
+T2671,U058,31-12-2021,Expense,Rnt,9434,upi,lucknow,
+T6020,U092,03-08-2022,Expense,Food,3280,Bank Transfr,jaipur,xyz123
+T10398,U069,06-10-2022,Income,Investment,15131 INR,Cash,N/A,asdfgh
+T9004,U011,23-11-2022,Expense,EDU,886,Csh,Ahmedabad,Train ticket
+T7005,U026,20-11-2022,Expense,Rentt,7109,BankTransfer,DELHI,asdfgh
+T12998,U146,12-08-2022,Expense,entertainment,4201,csh,Jaipur,Electricity bill
+T3988,U129,23-02-2024,Expense,Fod,655,bank transfer,HYD,ATM withdrawal
+T5319,U037,10-03-2023,Income,,61598,Cash,chennai,Medicine
+T3862,U042,10/16/2022,Income,Investment,44066,Cash,KOLKATA,Grocery shopping
+T5165,U126,12-12-2024,Income,Others,224611,Upi,DEL,Movie tickets
+T4714,U112,05/30/2024,Expense,Rent,46284,UPi,Ahmedabad,N/A
+T4195,U097,01-02-2024,Income,Bonus,174110,card,lucknow,Gym membership
+T11757,U068,21-09-2024,Expense,food,2044,BankTransfer,Pune,Online course
+T10285,U040,01/29/2024,Expense,Savings,5277,UPI,kolkata,
+T10345,U058,25-07-2021,Expense,Rent,47843 INR,UPi,kolkata,EMI payment
+T8961,U043,19-05-2021,Expense,Traval,1115,CRD,BAN,Internet bill
+T0428,U006,09-10-2021,Expense,Foodd,2017,Bank Transfer,Bangalore,Medicine
+T9117,U119,05/28/2021,Expense,education,2053,Bank Transfr,CHE,Gym membership
+T9348,U007,29-01-2022,Expense,Entertain,8839,cash,chennai,
+T3503,U017,15-01-2022,Expense,Entrtnmnt,9635,Csh,Lucknow,Gym membership
+T11648,U132,13-04-2022,Income,Salary,₹56581,Bank Transfr,mumbai,test
+T0481,U108,17-07-2023,Expense,Utility,392,bank transfer,pune,Uber ride
+T0341,U063,,Expense,Savings,6027,Bank Transfer,Lucknow,Monthly rent payment
+T2248,U048,12-10-2024,Expense,Rent,26916,Csh,KOLKATA,Petrol
+T3455,U150,09/27/2022,Expense,Foods,994,,kolkata,test
+T12178,U072,02-02-2022,Income,Salary,63125,Csh,chennai,misc
+T4186,U002,11-11-2022,Expense,Foods,175,Bank Transfer,CHE,xyz123
+T9132,U067,10-08-2022,Income,Freelance,24394,upi,DELHI,Monthly rent payment
+T2400,U126,14-10-2021,Income,Investment,67910,cash,delhi,Gym membership
+T8437,U143,20-07-2024,Expense,EDU,9531,upi,Lucknow,Gym membership
+T8881,U090,05-11-2022,Expense,Utilties,₹7838,UPi,BANGALORE,Electricity bill
+T10071,U043,09/26/2021,Expense,Fod,2511,card,CHENNAI,Online course
+T13867,U026,11-09-2023,Expense,Saving,7734,cash,,Internet bill
+T13196,U061,16-06-2024,Expense,RENT,1461,upi,JAI,Coffee
+T5099,U008,10-12-2024,Expense,EDU,2398,Bank_Transfer,chennai,Grocery shopping
+T1027,U011,03/21/2024,Income,Freelance,33170,Card,KOLKATA,Restaurant dinner
+T2238,U023,24-09-2023,Expense,TRAVEL,7858,,KOL,Grocery shopping
+T12671,U139,30-10-2024,Expense,food,3913,CARD,hyderabad,Shopping
+T4155,U042,09-12-2022,Expense,Travel,5279,csh,jaipur,Lunch
+T8170,U148,02-08-2021,Expense,Savings,₹4694,Upi,ahmedabad,Monthly rent payment
+T11558,U012,20-08-2024,Expense,Food,2060,UPI,hyderabad,Fixed deposit
+T11219,U135,12-11-2021,Expense,Rentt,32436,Crd,,
+T13688,U003,01-12-2024,Expense,food,7717,,lucknow,ATM withdrawal
+T12772,U145,02-12-2023,Income,Others,$42921,Csh,MUMBAI,misc
+T13289,U072,23-12-2022,Expense,Foodd,3021,Bank Transfer,Ahmedabad,xyz123
+T9714,U092,25-12-2022,Expense,Food,562 INR,CARD,chennai,
+T6767,U099,03-08-2024,Expense,Fod,1574,Crd,DELHI,ATM withdrawal
+T12720,U031,30-10-2024,Expense,,Rs.6879,csh,LUC,Movie tickets
+T0721,U005,13-02-2022,Expense,RENT,5599,BankTransfer,Bangalore,N/A
+T3212,U143,15-02-2021,Expense,Entertainment,4374,Bank Transfer,Hyderabad,...
+T8580,U118,10-01-2024,Expense,TRAVEL,552,Crd,delhi,Medicine
+T11720,U080,03-02-2024,Expense,Utilties,₹1686,,chennai,asdfgh
+T8316,U116,22-05-2021,Income,Investment,30473,bank transfer,DELHI,Shopping
+T2817,U104,13-07-2024,Expense,Utilities,₹3325,UPI,KOL,
+T9620,U088,,Expense,Rentt,46991,Upi,LUCKNOW,Lunch
+T1400,U066,11/25/2023,Expense,Travl,5535,CRD,JAIPUR,Train ticket
+T2220,U092,06-02-2022,Expense,Rentt,₹33228,UPi,JAI,Electricity bill
+T9269,U093,29-03-2021,Expense,Rent,999999,bank transfer,BAN,misc
+T6710,U008,11-12-2023,Income,Freelance,44802,card,LUC,Uber ride
+T7206,U142,01-03-2023,Expense,rent,9188,CARD,AHMEDABAD,Medicine
+T7386,U054,08-09-2021,Expense,Educaton,8716,Bank Transfer,Pune,Books
+T0019,U011,23-03-2021,Expense,Education,9273,card,BAN,!!!
+T13011,U031,28-06-2023,Expense,Rent,39845,CASH,Delhi,Restaurant dinner
+T5686,U139,25-02-2021,Income,Salary,18231,upi,DELHI,Train ticket
+T13942,U125,06-05-2022,Expense,FOOD,9636,Cash,MUMBAI,Grocery shopping
+T10500,U042,03/30/2024,Expense,education,7121,csh,Chennai,Fixed deposit
+T1516,U076,09/23/2023,Expense,health,5447,Upi,Mumbai,Shopping
+T4498,U109,26-10-2024,Expense,OTHERS,2163,CRD,CHENNAI,Uber ride
+T0053,U089,09-05-2022,Expense,food,$6402,Upi,KOLKATA,Monthly rent payment
+T5945,U039,13-02-2022,Expense,Rentt,19467,BankTransfer,bangalore,Gym membership
+T4812,U066,09-08-2022,Expense,Helth,1336,Cash,AHMEDABAD,N/A
+T4854,U111,05/16/2024,Expense,Travl,7761,Cash,BANGALORE,Coffee
+T5368,U033,03-12-2024,Expense,,9556,BankTransfer,LUCKNOW,!!!
+T8845,U040,03-02-2024,Expense,Utilties,8138,Bank_Transfer,PUNE,Fixed deposit
+T7231,U038,22-11-2023,Income,,13959,csh,Chennai,ATM withdrawal
+T2058,U121,17-11-2022,Expense,Savings,3084,Csh,JAI,Train ticket
+T12121,U105,23-07-2021,Expense,education,Rs.887,upi,KOL,Fixed deposit
+T7330,U147,21-12-2023,Expense,FOOD,7874,Bank Transfer,PUNE,EMI payment
+T8770,U028,01/23/2024,Expense,Utilties,7174,upi,BANGALORE,Medicine
+T13194,U017,20-09-2022,Expense,Traval,₹5391,,JAIPUR,test
+T8201,U104,07-12-2023,Expense,Utilties,4771,Bank Transfr,PUN,Medicine
+T11881,U089,06/22/2023,Expense,entertainment,9430,BankTransfer,Lucknow,
+T12496,U018,09/28/2023,Expense,FOOD,5045,Cash,CHE,Gym membership
+T6321,U138,11-01-2021,Expense,Rent,29287,Card,DEL,Internet bill
+T9997,U105,06/23/2022,Expense,Travel,9991,Bank Transfer,,Grocery shopping
+T6756,U091,09-11-2023,Expense,Educaton,3891,cash,Hyderabad,misc
+T3533,U130,02/28/2024,Expense,Rentt,37865,UPI,Bangalore,test
+T6023,U033,30-07-2023,Expense,Rent,,Bank Transfer,,EMI payment
+T11620,U149,05/29/2022,Expense,others,4955,CARD,CHENNAI,Movie tickets
+T1544,U083,05/29/2021,Expense,RENT,9757,Bank_Transfer,HYDERABAD,
+T5786,U149,10-07-2023,Income,Salary,₹43818,Bank_Transfer,DELHI,
+T4990,U093,02/15/2022,Expense,Traval,3607,card,AHMEDABAD,Medicine
+T5113,U094,16-05-2024,Expense,Health,₹1150,Bank Transfer,PUNE,Online course
+T0591,U021,01-11-2023,Expense,others,999999,Bank Transfer,MUMBAI,...
+T7367,U063,04/28/2024,Expense,Foodd,1453,Crd,Lucknow,Train ticket
+T7885,U040,24-02-2021,Income,Salary,69923,bank transfer,HYD,!!!
+T8892,U063,08-10-2022,Expense,food,9369,Bank Transfr,Hyderabad,Grocery shopping
+T1799,U086,31-05-2022,Expense,Foodd,2186,Bank Transfer,Chennai,Train ticket
+T13397,U132,05-04-2023,Expense,entertainment,2642,CASH,delhi,...
+T6170,U073,06-11-2021,Income,Investment,$27454,,KOLKATA,EMI payment
+T4918,U130,01-05-2022,Expense,Rentt,20656,Card,Kolkata,
+T13238,U059,01/30/2023,Income,Investment,₹10347,Csh,BAN,Monthly rent payment
+T3437,U092,28-08-2023,Income,Salary,,Crd,JAIPUR,Shopping
+T9845,U086,08/31/2022,Expense,TRAVEL,388,CARD,MUMBAI,Shopping
+T12697,U004,30-10-2023,Expense,Foods,,Upi,jaipur,Coffee
+T3845,U117,09-05-2022,Expense,FOOD,3756,bank transfer,JAIPUR,Grocery shopping
+T9152,U068,07/25/2023,Expense,others,4153,UPI,DEL,...
+T5889,U061,08/19/2024,Income,Bonus,36129,Upi,KOL,Books
+T1409,U060,08-01-2021,Expense,Travl,384,Bank Transfr,Delhi,Coffee
+T13399,U119,07/14/2022,Expense,Entertainment,3700,CARD,AHM,Doctor consultation
+T7644,U076,26-04-2022,Expense,Foodd,3901,Bank Transfr,Lucknow,Monthly rent payment
+T0997,U087,12/23/2023,Expense,RENT,3507,upi,delhi,xyz123
+T8909,U002,27-06-2024,Expense,Entrtnmnt,9883 INR,CASH,CHE,asdfgh
+T10044,U062,06-09-2022,Income,Salary,63348,Card,KOLKATA,Petrol
+T0328,U095,12-12-2024,Income,Investment,45361,Card,hyderabad,Electricity bill
+T1479,U045,08/20/2021,Expense,food,236,CASH,N/A,Online course
+T6902,U016,14-12-2023,Expense,RENT,6168,,MUMBAI,Lunch
+T2648,U033,26-03-2021,Expense,rent,6798,csh,BANGALORE,Shopping
+T12733,U057,06-04-2021,Expense,Foodd,4051,Card,Bangalore,Grocery shopping
+T11044,U145,30-09-2024,Expense,Saving,7998,upi,Lucknow,EMI payment
+T4115,U053,10-09-2023,Expense,Foods,1255,Bank Transfr,BAN,Movie tickets
+T13558,U080,08-09-2021,Expense,Travl,1621 INR,CARD,mumbai,xyz123
+T12420,U044,28-09-2022,Expense,Utilties,6725,cash,Chennai,...
+T3532,U121,,Expense,HEALTH,6113,CARD,DELHI,Shopping
+T9183,U137,04-01-2021,Expense,Foods,2799,CASH,Hyderabad,Shopping
+T7634,U033,13-01-2022,Expense,utilities,4958,Bank_Transfer,PUN,
+T5344,U122,21-01-2022,Expense,Foods,1099,Bank_Transfer,lucknow,Books
+T13242,U031,13-11-2022,Expense,Educaton,5642,CARD,BAN,Gym membership
+T4096,U047,25-03-2024,Expense,Rnt,1020,Cash,BAN,
+T0987,U049,05/20/2024,Expense,FOOD,3738,Bank Transfer,MUMBAI,
+T7842,U087,07-12-2023,Expense,Rnt,3192,Csh,KOLKATA,
+T6844,U012,21-05-2023,Expense,Health,7691,Upi,JAIPUR,
+T4457,U139,12-08-2023,Expense,Traval,9222,Card,CHE,xyz123
+T5843,U124,26-05-2021,Expense,Entertainment,₹4241,cash,hyderabad,Grocery shopping
+T8397,U144,17-12-2023,Expense,FOOD,1180,BankTransfer,kolkata,Medicine
+T12986,U022,,Expense,Foods,$1889,Card,Kolkata,EMI payment
+T1364,U048,17-02-2021,Expense,Rent,36056,Upi,mumbai,
+T6632,U009,10-05-2023,Expense,Rentt,6358,CRD,BANGALORE,Uber ride
+T2424,U069,15-08-2022,Expense,rent,5345,Bank Transfer,CHENNAI,EMI payment
+T9900,U048,04/30/2021,Expense,Travl,702,Bank_Transfer,lucknow,Petrol
+T0903,U102,20-12-2023,Expense,entertainment,7292,UPI,Pune,Movie tickets
+T3847,U134,11-10-2022,Expense,Utility,941,Cash,kolkata,Fixed deposit
+T13825,U127,17-11-2024,Expense,food,6574,UPi,DEL,Petrol
+T3164,U023,26-11-2024,Expense,TRAVEL,409,UPI,Pune,ATM withdrawal
+T12585,U136,07-03-2022,Income,Others,32906 INR,UPi,kolkata,Gym membership
+T5542,U018,14-10-2021,Expense,Travl,0,BankTransfer,JAI,Restaurant dinner
+T5327,U072,14-12-2023,Expense,Foods,3903,Cash,DEL,Grocery shopping
+T8454,U087,05/24/2021,Expense,Traval,9694,cash,JAI,misc
+T12124,U037,09-08-2024,Expense,Entertainment,₹9013,Upi,BANGALORE,
+T4591,U091,09-05-2022,Expense,Utilties,1980,Csh,Jaipur,Lunch
+T12097,U132,09-04-2021,Expense,utilities,7818,UPI,Jaipur,Internet bill
+T12210,U118,25-01-2022,Expense,Rentt,20509,Bank Transfr,bangalore,Train ticket
+T2661,U078,09-01-2024,Expense,Rnt,$9237,Upi,AHM,
+T6007,U138,04-03-2022,Expense,SAVINGS,6682,CASH,MUM,Movie tickets
+T4407,U143,29-07-2022,Expense,Education,6714,bank transfer,Hyderabad,
+T5887,U060,08/23/2021,Expense,TRAVEL,8859,Cash,KOLKATA,Internet bill
+T6734,U110,03-06-2024,Expense,TRAVEL,1098,,PUN,
+T9475,U092,11-06-2023,Income,Freelance,35719,UPI,Pune,Fixed deposit
+T4511,U107,06-07-2022,Expense,Travl,6170,CRD,BANGALORE,
+T12067,U046,09/23/2023,Expense,Food,2318,BankTransfer,mumbai,Gym membership
+T9561,U117,03-11-2022,Expense,Traval,6354,Bank Transfer,LUCKNOW,
+T9929,U102,15-03-2023,Expense,Utlities,8158,Crd,AHMEDABAD,ATM withdrawal
+T5732,U038,08/16/2021,Expense,Foodd,1702,UPI,pune,Medicine
+T9603,U145,28-06-2023,Expense,rent,6760,Bank_Transfer,Kolkata,Uber ride
+T2106,U010,21-04-2023,Expense,Educaton,8201,UPI,JAI,Shopping
+T0824,U007,04-03-2021,Expense,Entertainment,3219,UPI,LUCKNOW,Monthly rent payment
+T8434,U061,,Expense,FOOD,4327,Bank Transfr,pune,Fixed deposit
+T13434,U145,30-05-2022,Expense,Travel,Rs.2954,card,PUNE,misc
+T9341,U059,10/15/2022,Expense,Helth,8122,BankTransfer,N/A,
+T5459,U067,28-08-2021,Expense,HEALTH,1008,Upi,Jaipur,Medicine
+T2041,U009,15-02-2023,Expense,SAVINGS,Rs.8382,UPi,lucknow,Internet bill
+T3551,U025,23-09-2023,Expense,Traval,1372,CARD,MUMBAI,Train ticket
+T10339,U081,05-05-2022,Income,Freelance,₹46281,upi,HYD,EMI payment
+T8081,U100,12/14/2021,Expense,Utility,₹6566,Bank Transfr,MUMBAI,
+T5647,U082,10-05-2023,Expense,Helth,₹984,Card,BANGALORE,Online course
+T4580,U149,11-07-2023,Expense,TRAVEL,₹1259,CRD,pune,Monthly rent payment
+T2200,U089,,Expense,Fod,2072,Csh,KOLKATA,Movie tickets
+T8724,U074,09/24/2024,Income,Bonus,₹46784,Cash,,Shopping
+T3529,U017,23-01-2024,Expense,Entertain,Rs.7393,cash,Bangalore,Online course
+T0924,U133,13-09-2023,Income,Salary,56971,Csh,PUNE,Coffee
+T13214,U004,09-09-2023,Expense,Educaton,₹9349,Bank_Transfer,,Coffee
+T6638,U084,02-08-2023,Expense,travel,₹1868,CASH,Bangalore,Grocery shopping
+T9811,U048,06-01-2024,Expense,RENT,2774,Bank Transfr,PUNE,Internet bill
+T1789,U038,31-05-2022,Income,Salary,₹30722,CRD,JAIPUR,...
+T1978,U035,01-02-2024,Expense,Traval,2481,Bank Transfr,Jaipur,xyz123
+T1222,U121,11-01-2021,Expense,Utility,₹8855,UPi,Delhi,asdfgh
+T8043,U007,11-10-2022,Expense,Education,$3954,Bank Transfr,N/A,xyz123
+T11433,U004,05-11-2021,Expense,Food,4941,bank transfer,Mumbai,Medicine
+T11885,U128,04/21/2024,Expense,Foods,2043,Csh,BAN,Gym membership
+T4257,U104,06/26/2024,Expense,RENT,6574,CASH,LUCKNOW,Coffee
+T13042,U008,28-07-2022,Expense,Foodd,2392,Bank Transfr,Jaipur,Gym membership
+T1288,U071,23-12-2024,Expense,health,6626,bank transfer,lucknow,Monthly rent payment
+T12635,U026,22-07-2024,Expense,Foods,3054,cash,Pune,test
+T3008,U055,30-07-2022,Income,Freelance,37631,CRD,MUM,Fixed deposit
+T6709,U067,21-12-2023,Expense,Rentt,38973,UPI,DEL,Fixed deposit
+T4064,U127,11-04-2023,Expense,Foodd,3980,UPi,PUNE,Petrol
+T9245,U041,24-05-2021,Expense,Educaton,8729,UPi,LUCKNOW,Train ticket
+T6899,U106,30-10-2022,Expense,Entrtnmnt,7773,Csh,LUCKNOW,Petrol
+T0874,U136,09-07-2021,Expense,health,$210,UPi,Bangalore,
+T4836,U123,17-12-2023,Expense,Foods,2611,Csh,PUNE,Gym membership
+T12202,U037,11-02-2022,Expense,Rent,34418,UPi,Chennai,Books
+T4056,U143,24-08-2021,Expense,Other,4883,Crd,CHENNAI,Shopping
+T0449,U128,28-07-2021,Expense,entertainment,1652,CRD,Hyderabad,
+T13189,U021,17-03-2021,Expense,Saving,8006,cash,N/A,xyz123
+T4959,U150,06-10-2022,Expense,RENT,6829,cash,JAI,misc
+T8420,U136,03-06-2021,Expense,utilities,4713,cash,BAN,Doctor consultation
+T10250,U057,20-12-2024,Income,Salary,14297,Bank Transfr,Mumbai,Electricity bill
+T4214,U036,13-12-2021,Expense,Foodd,2087,card,bangalore,!!!
+T12332,U054,30-04-2023,Income,Others,11168,bank transfer,mumbai,Shopping
+T0949,U144,06-04-2023,Expense,food,5997,CRD,bangalore,!!!
+T7649,U029,07-10-2023,Expense,Entertainment,,Card,Chennai,Lunch
+T2428,U029,16-12-2023,Expense,Entertainment,8195,cash,Hyderabad,misc
+T5449,U035,19-04-2023,Expense,Foods,4677,CARD,Jaipur,EMI payment
+T0494,U034,15-07-2022,Income,Bonus,59853,card,AHMEDABAD,Electricity bill
+T11981,U128,04/26/2022,Expense,Entertainment,464,upi,Chennai,
+T11887,U009,15-04-2023,Expense,Rent,48330,UPi,LUC,xyz123
+T10700,U126,11/28/2023,Expense,Rnt,,CRD,lucknow,Online course
+T5579,U030,06-06-2023,Expense,Helth,8757,Bank Transfer,AHMEDABAD,asdfgh
+T11783,U121,01-07-2022,Expense,Traval,5855,csh,kolkata,Doctor consultation
+T12587,U133,10-02-2024,Expense,Saving,3444,CRD,ahmedabad,Monthly rent payment
+T9551,U010,,Expense,Entertain,7010,Csh,CHE,test
+T3025,U146,12/19/2022,Expense,Rent,14582,upi,DEL,Internet bill
+T7626,U147,,Income,Bonus,14412,cash,HYD,Lunch
+T12272,U136,15-04-2023,Income,Salary,18733,Card,AHM,!!!
+T5026,U009,07/16/2024,Expense,food,3702,Upi,Mumbai,
+T13932,U147,21-11-2023,Expense,Educaton,₹6062,Bank_Transfer,lucknow,!!!
+T7669,U082,04-08-2023,Expense,food,9155,Csh,MUMBAI,EMI payment
+T0924,U133,13-09-2023,Income,Salary,56971,Csh,PUNE,Coffee
+T1165,U017,04-04-2023,Expense,Utility,4949,Cash,jaipur,
+T5963,U081,03/21/2022,Expense,Utility,5066,BankTransfer,LUC,
+T10275,U119,03-06-2022,Expense,FOOD,6432,Card,CHENNAI,N/A
+T4226,U070,23-04-2021,Expense,Travel,₹1945,Bank Transfr,mumbai,N/A
+T12985,U022,18-02-2023,Expense,Entertainment,7288,Card,delhi,Medicine
+T3001,U099,07/14/2024,Expense,Education,4942,UPI,Bangalore,Monthly rent payment
+T7356,U059,03-03-2022,Expense,Foodd,1443,CARD,KOL,Shopping
+T7058,U036,14-09-2021,Income,Salary,66905,Card,MUM,test
+T3582,U058,10-11-2023,Expense,Foods,1731,BankTransfer,pune,asdfgh
+T12681,U061,24-07-2024,Expense,Entertainment,4462,Bank_Transfer,ahmedabad,Medicine
+T3707,U107,20-02-2021,Expense,health,4343,CARD,BANGALORE,Train ticket
+T2950,U135,04-11-2021,Expense,Food,842,UPI,bangalore,Monthly rent payment
+T3609,U095,22-07-2023,Expense,Food,1969,csh,kolkata,Gym membership
+T10866,U095,05-05-2024,Expense,Food,₹2811,Csh,lucknow,Online course
+T5999,U045,21-10-2024,Expense,Rnt,1223,CRD,Hyderabad,Gym membership
+T3159,U119,25-01-2023,Expense,Rentt,9301,cash,ahmedabad,Coffee
+T5007,U080,02/28/2023,Income,Others,19382,Bank Transfer,AHMEDABAD,Doctor consultation
+T0060,U038,12-01-2024,Expense,Food,2984,CRD,,Restaurant dinner
+T11837,U126,28-01-2023,Expense,Fod,9399,Card,jaipur,ATM withdrawal
+T1520,U024,05/23/2021,Expense,Rentt,-1000,card,DEL,asdfgh
+T1448,U110,07-05-2022,Expense,Fod,845,CRD,chennai,Gym membership
+T8400,U082,07-10-2022,Expense,Utilities,8421,Bank_Transfer,AHMEDABAD,Uber ride
+T5292,U034,27-01-2022,Expense,Others,Rs.7687,Cash,DELHI,N/A
+T0358,U097,10/23/2022,Expense,rent,8337,Upi,Chennai,
+T12179,U042,13-04-2023,Expense,travel,5205,BankTransfer,Pune,Shopping
+T2843,U097,02/18/2022,Expense,Utilities,4206,BankTransfer,Mumbai,xyz123
+T0982,U005,,Expense,FOOD,$5937,UPi,JAI,Lunch
+T9460,U014,08/30/2024,Expense,Foods,1690,Upi,Lucknow,
+T7743,U090,05/24/2022,Income,,37280,upi,kolkata,Uber ride
+T3030,U083,21-01-2024,Expense,Travel,744,bank transfer,CHENNAI,xyz123
+T1421,U127,05-06-2022,Expense,Foodd,773 INR,Csh,Jaipur,Monthly rent payment
+T11211,U068,24-12-2023,Expense,Educaton,4103,BankTransfer,pune,Movie tickets
+T11014,U107,01-06-2021,Expense,Entertain,$3389,,ahmedabad,Electricity bill
+T1121,U096,10/17/2023,Expense,SAVINGS,847,CARD,N/A,ATM withdrawal
+T11298,U086,11-11-2021,Expense,Rentt,49400,CARD,CHE,ATM withdrawal
+T8808,U073,07/18/2023,Expense,TRAVEL,5271,card,Hyderabad,xyz123
+T7009,U004,05-04-2022,Expense,Travel,4005,Csh,JAIPUR,Fixed deposit
+T5062,U114,10-08-2024,Expense,Educaton,9352,Bank Transfr,chennai,Doctor consultation
+T4736,U113,04-10-2021,Expense,Education,$8679,csh,Mumbai,
+T7426,U115,07/15/2023,Income,Freelance,61209,,Chennai,
+T1835,U041,07/19/2023,Income,Salary,₹12429,card,,Online course
+T8282,U108,08-02-2021,Expense,Rentt,,cash,Lucknow,Doctor consultation
+T1617,U010,05/24/2021,Expense,entertainment,2583,BankTransfer,N/A,Doctor consultation
+T13174,U064,21-11-2021,Expense,Entertainment,6829,card,Lucknow,Coffee
+T11208,U006,11-06-2021,Expense,travel,9647,upi,PUNE,Gym membership
+T1324,U047,06/30/2021,Expense,Fod,-1000,Cash,lucknow,Restaurant dinner
+T13156,U047,04/24/2022,Expense,Travl,7482,Card,Pune,Internet bill
+T10465,U085,06/30/2022,Expense,Utlities,9698,Cash,hyderabad,Doctor consultation
+T0273,U137,02-12-2022,Expense,Savings,8773,Csh,HYDERABAD,EMI payment
+T7155,U076,07-09-2022,Expense,Foods,2236,Cash,CHE,
+T1069,U103,20-06-2023,Expense,Utility,4119,Csh,PUN,Online course
+T2552,U019,27-09-2022,Income,Others,50800,UPi,KOL,Monthly rent payment
+T12833,U059,16-09-2023,Expense,Rnt,1790,bank transfer,MUM,Shopping
+T9201,U019,19-09-2022,Expense,food,788,Csh,pune,Online course
+T10730,U008,04/15/2024,Expense,rent,$5717,Bank_Transfer,KOLKATA,Movie tickets
+T3185,U132,28-04-2024,Expense,travel,2771,Upi,LUC,
+T4506,U113,07-02-2021,Income,Bonus,222939,Bank Transfer,DELHI,Gym membership
+T6940,U092,22-04-2021,Expense,Travl,$3869,Cash,chennai,Coffee
+T8627,U054,22-12-2024,Expense,,Rs.2837,bank transfer,Pune,
+T10707,U150,12-02-2024,Income,Salary,76239,CRD,mumbai,Internet bill
+T11015,U138,08-02-2021,Expense,FOOD,5375,Upi,BAN,Movie tickets
+T6233,U026,01-12-2021,Expense,Traval,4953,Upi,Mumbai,ATM withdrawal
+T11312,U018,05-12-2022,Expense,utilities,4494,Bank Transfer,JAIPUR,
+T5179,U050,27-03-2021,Expense,Fod,₹619,CRD,bangalore,Lunch
+T8773,U004,24-09-2023,Expense,Traval,5649,BankTransfer,jaipur,
+T12753,U059,23-06-2023,Expense,Travl,845,Upi,ahmedabad,Restaurant dinner
+T8713,U041,12-01-2024,Income,Salary,37665,UPI,bangalore,Lunch
+T1091,U033,30-10-2022,Expense,HEALTH,$740,bank transfer,BAN,Shopping
+T11096,U064,18-08-2024,Income,Investment,77578,csh,bangalore,
+T7666,U009,11/27/2024,Expense,Travl,7815,UPI,N/A,
+T3826,U111,27-03-2024,Expense,Foods,2158,card,DEL,test
+T6281,U027,08-07-2024,Expense,Foodd,₹3765,Bank_Transfer,MUMBAI,Internet bill
+T2649,U023,27-12-2022,Expense,Rnt,4039,Upi,kolkata,EMI payment
+T3645,U085,10-07-2023,Expense,Utilities,4218,card,BANGALORE,xyz123
+T13724,U096,28-08-2022,Expense,rent,1009,UPi,KOL,asdfgh
+T4315,U049,16-04-2022,Expense,Foodd,2220,Bank Transfer,MUMBAI,Train ticket
+T4131,U032,07-02-2023,Expense,Food,1969,CARD,Jaipur,Movie tickets
+T0599,U010,06/23/2022,Expense,RENT,3050,BankTransfer,pune,N/A
+T6679,U006,29-07-2022,Income,Freelance,50581,Upi,N/A,Internet bill
+T3446,U036,19-11-2022,Income,Salary,65464,UPi,Kolkata,Uber ride
+T4680,U003,10-03-2022,Expense,Food,₹3207,Bank_Transfer,DEL,Grocery shopping
+T3972,U027,01-05-2022,Expense,education,8479,upi,Jaipur,Uber ride
+T11462,U147,13-04-2024,Expense,Food,861,UPi,hyderabad,Shopping
+T11490,U127,08-01-2024,Income,Others,34452,CRD,PUN,Internet bill
+T2973,U052,24-07-2023,Expense,Rnt,9804,CASH,Bangalore,Medicine
+T12274,U016,08-01-2024,Expense,FOOD,6666,CRD,jaipur,misc
+T3587,U089,05/29/2023,Expense,utilities,8355,Bank Transfr,DEL,asdfgh
+T9205,U111,02/24/2021,Expense,Travel,₹9644,UPI,Hyderabad,Gym membership
+T2439,U129,04-02-2022,Expense,rent,1690,card,Pune,Online course
+T9679,U028,20-05-2023,Expense,Utility,9727,Upi,Lucknow,Restaurant dinner
+T13096,U110,15-03-2023,Expense,Food,4753,csh,delhi,Monthly rent payment
+T11952,U052,08-02-2021,Expense,food,5025,Bank Transfr,KOLKATA,
+T1629,U060,03-07-2021,Expense,Foods,2628,BankTransfer,,Grocery shopping
+T11073,U129,25-07-2022,Expense,Travel,1611,Csh,Pune,N/A
+T0496,U065,15-01-2023,Expense,education,6020,CRD,Pune,Online course
+T3419,U081,14-12-2023,Expense,Utility,3123,Bank_Transfer,CHENNAI,Monthly rent payment
+T7640,U092,,Income,Bonus,16944,card,Bangalore,test
+T12923,U119,11-12-2022,Expense,Rentt,₹25106,BankTransfer,,misc
+T10148,U078,10-08-2023,Expense,Entertainment,1317,UPI,Pune,Medicine
+T0881,U069,16-02-2023,Expense,Foodd,4235,Bank_Transfer,DELHI,test
+T4819,U041,01-03-2024,Expense,education,2966,BankTransfer,,Lunch
+T11108,U114,03-07-2022,Expense,Education,2265,UPi,Delhi,Petrol
+T6885,U100,03-07-2021,Expense,Utlities,1346,BankTransfer,MUMBAI,Petrol
+T5946,U096,20-01-2022,Expense,Rent,-500,cash,Chennai,Gym membership
+T13677,U014,05/16/2023,Expense,TRAVEL,702,card,hyderabad,Petrol
+T1763,U095,09/21/2024,Income,Investment,,Card,Hyderabad,...
+T5130,U110,02-03-2024,Expense,Entertain,1505,Bank Transfer,KOL,Uber ride
+T9955,U032,06/27/2024,Expense,RENT,Rs.4697,Crd,bangalore,Movie tickets
+T1203,U082,08/16/2023,Expense,Rentt,10239,BankTransfer,KOL,test
+T2284,U125,09-07-2021,Expense,Entertainment,999999,Upi,KOLKATA,xyz123
+T1030,U031,22-09-2021,Expense,entertainment,Rs.7245,Csh,MUMBAI,ATM withdrawal
+T0932,U081,10-12-2024,Expense,Travl,₹4258,bank transfer,Bangalore,Books
+T12819,U002,21-04-2023,Expense,Entrtnmnt,4253,Card,HYD,Books
+T1137,U026,06-01-2022,Expense,FOOD,6666,bank transfer,Jaipur,test
+T4052,U066,11-11-2021,Expense,Travel,4882,CASH,LUCKNOW,asdfgh
+T6325,U076,12-03-2023,Expense,Foods,4597,,LUCKNOW,Restaurant dinner
+T12879,U124,12-11-2023,Income,Freelance,65471,Upi,N/A,Books
+T9995,U025,20-04-2024,Income,Bonus,28581,Bank Transfr,,Online course
+T3904,U141,28-10-2021,Expense,RENT,3737 INR,,jaipur,ATM withdrawal
+T2126,U087,03-05-2022,Expense,education,8214,Card,kolkata,
+T2433,U090,02-12-2024,Expense,Utilties,7287,Upi,BAN,EMI payment
+T1875,U062,05/13/2023,Expense,FOOD,6868,Csh,PUNE,Medicine
+T9425,U046,11-04-2021,Expense,Fod,-1000,Bank_Transfer,Bangalore,Medicine
+T2991,U087,22-02-2022,Expense,Travl,7173,bank transfer,HYDERABAD,Shopping
+T0651,U038,23-02-2021,Expense,RENT,2693,upi,Bangalore,Shopping
+T2464,U079,,Expense,entertainment,8468,Bank Transfr,CHE,
+T7770,U118,28-09-2022,Expense,Health,7900,Crd,ahmedabad,Petrol
+T4293,U056,03/27/2024,Income,Bonus,75757,Cash,CHE,
+T0163,U098,20-12-2021,Income,Others,749253,BankTransfer,AHMEDABAD,Electricity bill
+T11855,U094,08/19/2021,Expense,Educaton,5531,cash,CHENNAI,asdfgh
+T1122,U095,16-05-2023,Expense,Rent,₹6790,Csh,Kolkata,
+T4911,U041,22-11-2023,Expense,Foods,4827,Crd,Ahmedabad,
+T2532,U002,30-11-2022,Expense,TRAVEL,5094,csh,Bangalore,Grocery shopping
+T4480,U079,25-01-2024,Expense,Rentt,36568,cash,Pune,misc
+T12486,U068,13-11-2024,Expense,Travl,5316,UPi,DEL,Restaurant dinner
+T0896,U029,02-05-2021,Expense,Food,$3429,CASH,jaipur,Uber ride
+T5973,U072,07-06-2021,Expense,Rentt,₹41358,CARD,JAIPUR,EMI payment
+T6904,U007,14-02-2024,Expense,Entertain,6805,Crd,bangalore,Grocery shopping
+T8131,U032,28-03-2021,Expense,Rnt,Rs.2358,cash,,!!!
